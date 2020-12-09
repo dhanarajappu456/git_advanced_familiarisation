@@ -1,9 +1,9 @@
 wwdwd kkk
-<<<<<<< HEAD
-lppp
-=======
+
+lpp
+
 jjjj
->>>>>>> feature
+ feature
 
 
 mastering
