@@ -1,3 +1,7 @@
 wwdwd kkk
+<<<<<<< HEAD
 lppp
+=======
+jjjj
+>>>>>>> feature
 
