@@ -1,5 +1,12 @@
 wwdwd kkk
+<<<<<<< HEAD
+lppp
+=======
 jjjj
+>>>>>>> feature
+
+
+mastering
 
 
 featuring
